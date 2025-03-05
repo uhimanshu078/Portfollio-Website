@@ -31,8 +31,6 @@ section {
     padding: 10rem 9% 2rem;
 }
 
-/* Header & NavBar Section */
-
 .header {
     position: fixed;
     width: 100%;
@@ -79,8 +77,6 @@ section {
     cursor: pointer;
     display: none;
 }
-
-/* Home Section */
 
 .home {
     display: flex;
@@ -183,8 +179,6 @@ span {
     box-shadow: 0 0 1.6rem var(--main-color);
 }
 
-/* About Section */
-
 .about {
     display: flex;
     align-items: center;
@@ -249,7 +243,6 @@ span {
     margin: 2rem 0 3rem;
 }
 
-/* Services Section */
 
 .services h2 {
     margin-bottom: 5rem;
@@ -291,8 +284,6 @@ span {
     font-size: 1.6rem;
     margin: 1rem 0 3rem;
 }
-
-/* ******************Testimonials Section********************* */
 
 .testimonials{
     background: var(--snd-bg-color);
@@ -350,8 +341,6 @@ span {
     font-size: 2rem;
 }
 
-/* ******************Contact Section********************* */
-
 .contact {
     background-color: var(--bg-color);
 }
@@ -396,8 +385,6 @@ span {
     margin-top: 2rem;
 }
 
-/* ******************Footer Section********************* */
-
 .footer{
     position: relative;
     bottom: 0;
@@ -435,8 +422,6 @@ span {
     font-size: 16px;
     color: var(--text-color);
 }
-
-/* BreakPoint */
 
 @media (max-width:1200px) {
     html {
